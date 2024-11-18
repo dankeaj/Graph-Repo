@@ -14,3 +14,8 @@ Added image<br>
 git add STEPS.md<br>
 git commit -m "Step 7."<br>
 git push -u origin bug-fix-experimental<br>
+
+Step 8:<br> 
+git add STEPS.md<br>
+git commit -m "Step 8."<br>
+git push -u origin bug-fix<br>
