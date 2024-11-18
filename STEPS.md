@@ -19,3 +19,8 @@ Step 8:<br>
 git add STEPS.md<br>
 git commit -m "Step 8."<br>
 git push -u origin bug-fix<br>
+
+Step 9:<br> 
+git add STEPS.md<br>
+git commit -m "Step 9."<br>
+git push -u origin bug-fix<br>
