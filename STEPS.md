@@ -60,3 +60,8 @@ manually resolved merge conflict inside STEPS.md<br>
 git add STEPS.md<br>
 git commit -m "Step 11."<br>
 git push -u origin bug-fix<br>
+
+Step 12:<br>
+git add STEPS.md<br>
+git commit -m "Step 12."<br>
+git push -u origin bug-fix<br>
