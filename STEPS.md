@@ -78,3 +78,9 @@ manually resolved merge conflict inside STEPS.md<br>
 git add STEPS.md<br>
 git commit -m "Step 13."<br>
 git push -u origin main<br>
+
+Step 14:<br>
+git add STEPS.md<br>
+git add README.md<br>
+git commit -m "Step 14."<br>
+git push -u origin main<br>
