@@ -9,3 +9,7 @@ Step 2: git add STEPS.md
 		git commit -m "Step 2."
 		git push -u origin main
 
+Step 10:<br>
+git add STEPS.md<br>
+git commit -m "Step 10."<br>
+git push -u origin main<br>
